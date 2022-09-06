@@ -6,8 +6,8 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-#banner{
-    background-image:linear-gradient rgba((0,0,0,0.5)), url(images/tailorb10.jpg);
+#banner {
+    background-image: linear-gradient(rgba(0,0,0,0.0), #333), url(images/tailorb10.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
